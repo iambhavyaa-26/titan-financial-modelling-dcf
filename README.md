@@ -21,17 +21,16 @@ An integrated three-statement model (income statement, balance sheet, cash flow 
 
 | File | One-line description |
 |---|---|
-| ![Guide](01_guide.jpg) | Guide sheet: annual-report page references for each historical year and the key judgement calls. |
-|![Assumptions](02_assumptions.jpg) | Assumptions sheet: scenario switch, gold-on-loan switch and the revenue, margin and inventory-day drivers by scenario. |
-|![Income Statement](03_income_statement.jpg)| Income statement with FY23–FY26 actuals and FY27E–FY31E forecasts. |
-|![Balance Sheet](04_balance_sheet.jpg) | Balance sheet, balancing in every historical and forecast year. |
-|![Cash Flow](05_cash_flow.jpg) | Cash flow statement reconciling to the closing cash on the balance sheet. |
-|![Working Capital](06_working_capital.jpg)| Working capital schedule: inventory, receivable and payable days, and the gold-on-loan funding of inventory. |
-|![WACC](07_wacc.jpg)| WACC build-up: risk-free rate, equity risk premium, adjusted beta, cost of debt and capital weights. |
-|![DCF Valuation](08_dcf_valuation.jpg) | DCF sheet: free cash flow build, terminal value, enterprise value to equity value, and value per share. |
-|![Checks](10_checks.jpg) | Sensitivity of value per share to WACC and terminal growth, plus the exit-multiple cross-check. |
-|![Scenarios](09_scenarios.jpg)| Bull / base / bear drivers and valuation outputs side by side. |
-|![Checks](10_checks.jpg)| Integrity checks sheet showing every check at zero and the status "ALL CHECKS PASS". |
+| ![Guide](screenshots/01_guide.jpg) | Guide sheet: annual-report page references for each historical year and the key judgement calls. |
+|![Assumptions](screenshots/02_assumptions.jpg) | Assumptions sheet: scenario switch, gold-on-loan switch and the revenue, margin and inventory-day drivers by scenario. |
+|![Income Statement](screenshots/03_income_statement.jpg)| Income statement with FY23–FY26 actuals and FY27E–FY31E forecasts. |
+|![Balance Sheet](screenshots/04_balance_sheet.jpg) | Balance sheet, balancing in every historical and forecast year. |
+|![Cash Flow](screenshots/05_cash_flow.jpg) | Cash flow statement reconciling to the closing cash on the balance sheet. |
+|![Working Capital](screenshots/06_working_capital.jpg)| Working capital schedule: inventory, receivable and payable days, and the gold-on-loan funding of inventory. |
+|![WACC](screenshots/07_wacc.jpg)| WACC build-up: risk-free rate, equity risk premium, adjusted beta, cost of debt and capital weights. |
+|![DCF Valuation](screenshots/08_dcf_valuation.jpg) | DCF sheet: free cash flow build, terminal value, enterprise value to equity value, and value per share. |
+|![Scenarios](screenshots/09_scenarios.jpg)| Bull / base / bear drivers and valuation outputs side by side. |
+|![Checks](screenshots/10_checks.jpg)| Integrity checks sheet showing every check at zero and the status "ALL CHECKS PASS". |
 
 ---
 
