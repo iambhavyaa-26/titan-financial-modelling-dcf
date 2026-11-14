@@ -4,6 +4,7 @@
 
 An integrated three-statement model (income statement, balance sheet, cash flow statement) of Titan Company Ltd, built entirely in Excel. Historicals for FY23–FY26 come from the company's consolidated annual reports, and the model forecasts FY27E–FY31E. The forecast runs through linked schedules for depreciation and capex, working capital and debt, with a bull/base/bear scenario switch. Free cash flow to the firm is discounted at a CAPM-based WACC to give an intrinsic value per share, with a WACC vs terminal growth sensitivity table and a terminal-value cross-check. Gold on loan, a Titan-specific funding item, is handled explicitly, and a Checks sheet confirms the model balances in every year.
 
+
 **Base-case result:** DCF value of about ₹452 per share against a market price of ₹4,516 (1 Oct 2026). The model does not justify the market multiple, and the README explains why (see Limitations).
 
 | Item | Value |
@@ -14,6 +15,8 @@ An integrated three-statement model (income statement, balance sheet, cash flow 
 | Base-case WACC | about 15.1% |
 | Terminal growth | 5.0% |
 | Scenarios | Bull / Base / Bear |
+
+**Excel File Link:** https://drive.google.com/drive/folders/1CvQge2oGKfNUSVwocG7VYwia0HsXIyKa?usp=sharing
 
 ---
 
